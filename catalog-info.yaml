@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "CircleCi Test"
+  description: "CircleCi Test"
+  annotations:
+    github.com/project-slug: narvar/CircleCITest
+    backstage.io/techdocs-ref: url:https://github.com/narvar/CircleCITest
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "BK"

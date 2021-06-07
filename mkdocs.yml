@@ -1,0 +1,8 @@
+site_name: "CircleCi Test"
+site_description: "CircleCi Test"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
